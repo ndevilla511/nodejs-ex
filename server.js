@@ -7,7 +7,7 @@ var express = require('express'),
     app     = express(),
     path    = require('path'),
     bodyParser = require('body-parser'),
-    eps     = require('ejs'),
+    ejs     = require('ejs'),
     morgan  = require('morgan'),
     routes  = require('./api/routes');
     
