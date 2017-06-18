@@ -1,4 +1,14 @@
 /node_modules/
 npm-debug.log
 
+/css/
+/img/
+/lib/
+/js/
+/mail/
+/scss/
+/views/
 .idea/
+
+/index.html
+gulpfile.js
